@@ -39,15 +39,8 @@ Fullstack Analyst with skills in system, business, and data analytics. I build e
 
 ## 📊 GitHub Stats
 
-> Чтобы графики заработали — вставь это в README:
-
-```markdown
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinNika&layout=compact)
-
-```
-
----
 
 ## 📌 Featured Projects
 
