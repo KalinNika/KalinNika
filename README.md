@@ -6,6 +6,7 @@
   <a href="https://t.me/HayleyRizhik">
     <img src="https://img.shields.io/badge/Telegram-@HayleyRizhik-0088cc?style=flat-square&logo=telegram&logoColor=white" />
   </a>
+
   <a href="https://github.com/KalinNika">
     <img src="https://img.shields.io/badge/GitHub-KalinNika-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
