@@ -50,11 +50,7 @@ End-to-end pipeline for analyzing customer feedback:
 - Forecasting with Prophet
 - PDF report generation + Telegram Bot delivery
 
-### 🤖 AI-Assisted Feedback Insight System *(soon)*
-Auto-analysis of support messages using LLM (GPT) + dashboard alerts.
 
-### 📡 Smart Feedback Insights & Alert System *(planned)*
-Real-time issue detection, tagging & smart alerts from customer feedback.
 
 ---
 
