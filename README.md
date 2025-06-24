@@ -62,8 +62,9 @@ I'm a fullstack analyst who builds end-to-end solutions — from requirement gat
 
 ## 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinNika&layout=compact&langs_count=8&hide=html,css)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinNika&layout=compact)
+
 
 ## 📌 Featured Projects
 
@@ -84,4 +85,4 @@ Prompt-engineering simulator without GPT API:
 
 ---
 
-📬 Let’s connect — open to full-time or internship opportunities in analytics!
+📬 Feel free to connect via [Telegram](https://t.me/HayleyRizhik) or explore more on [GitHub](https://github.com/KalinNika).
