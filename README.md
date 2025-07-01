@@ -93,6 +93,12 @@ Automated pipeline for delivering financial forecasts:
 - PDF report creation and delivery
 - Automatic dispatch via **Telegram** and **Discord** bots
 
+### 🧠 [AI Feedback Reporter](https://github.com/KalinNika/ai-feedback-reporter) 
+Automated AI-based pipeline for analyzing customer feedback:
+Text input via HTML form and Webhook
+Tone, summary, and CX recommendations via OpenAI GPT
+Results automatically saved to Google Sheets
+
 
 ---
 
