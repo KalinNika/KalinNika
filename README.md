@@ -81,6 +81,12 @@ Prompt-engineering simulator without GPT API:
 - Ideal for training, interviews and AI experiments
 
 
+### 📊 [Finance Forecast Dispatcher](https://github.com/KalinNika/Finance-Forecast-Dispatcher)  
+Automated pipeline for delivering financial forecasts:
+
+- Forecast generation based on expenses data
+- PDF report creation and delivery
+- Automatic dispatch via **Telegram** and **Discord** bots
 
 
 ---
