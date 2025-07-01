@@ -24,11 +24,11 @@ I'm a fullstack analyst who builds end-to-end solutions — from requirement gat
 
 ## 🧠 What I Do
 
-- 🧠 Prompt Engineering & AI-powered workflows (offline / no API)
-- 📊 Data analysis, NLP, forecasting & visualization (Python, R, SQL)
-- 🤖 Telegram & Discord bot automation for business tasks
-- 🧩 End-to-end pipelines: from raw data to smart reports
-- ⚙️ No-code/low-code automation using n8n + scripts
+- 🧪 Prompt engineering & LLM automation (offline / no API)
+- 📊 Data analysis, forecasting & BI (Python, R, SQL)
+- 🤖 Bot development & system integration (Telegram, Discord)
+- ⚙️ End-to-end pipelines: raw data → smart reports
+- 🔧 No-code + scripting workflows (n8n, Python)
 
 ---
 
