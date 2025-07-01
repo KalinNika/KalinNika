@@ -24,39 +24,44 @@ I'm a fullstack analyst who builds end-to-end solutions — from requirement gat
 
 ## 🧠 What I Do
 
-- 🧪 Prompt Engineering & LLM experiments (offline)
-- 📊 Data & BI analysis using Python, R, SQL
-- 📈 Forecasting, classification & ML automation
-- 🤖 AI integrations with bots and user flows
-**Languages & Tools:**  
+- 🧠 Prompt Engineering & AI-powered workflows (offline / no API)
+- 📊 Data analysis, NLP, forecasting & visualization (Python, R, SQL)
+- 🤖 Telegram & Discord bot automation for business tasks
+- 🧩 End-to-end pipelines: from raw data to smart reports
+- ⚙️ No-code/low-code automation using n8n + scripts
+
+---
+
 ## 🧰 Tech Stack
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+### Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
-**Analytics & Visualization:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+### Analytics & Visualization:
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-4285F4?style=flat&logo=googledrive&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**ML/NLP:**  
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-2596be?style=flat-square)
-![TF--IDF](https://img.shields.io/badge/TF--IDF-525252?style=flat-square)
+### ML/NLP:
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Prophet](https://img.shields.io/badge/-Prophet-FF6F00?style=flat)
+![TF-IDF](https://img.shields.io/badge/-TF--IDF-7B7B7B?style=flat)
 
-**Web & Interface:**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### Web & Interface:
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Automation & APIs:**  
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-0088cc?style=flat-square&logo=telegram)
-![OpenAI](https://img.shields.io/badge/OpenAI_(No_API)-412991?style=flat-square&logo=openai&logoColor=white)
-![schedule](https://img.shields.io/badge/schedule-py-555?style=flat-square)
+### Automation & APIs:
+![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
+![OpenAI (No API)](https://img.shields.io/badge/-OpenAI%20(No%20API)-764ABC?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-F69A1D?style=flat&logo=n8n&logoColor=white)
+![Scheduling](https://img.shields.io/badge/-schedule.py-4B8BBE?style=flat)
+
 
 ---
 
