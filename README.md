@@ -16,7 +16,8 @@
 
 ## 🚀 About Me
 
-I'm a fullstack analyst who builds end-to-end solutions — from requirement gathering and business process mapping to predictive modeling, dashboards, prompt-based AI prototypes, and automated report delivery.
+I'm a fullstack analyst who builds end-to-end solutions — from requirement gathering and business process mapping to predictive modeling, dashboards, prompt-based AI prototypes, and automated report delivery. 
+I recently built an AI-powered Telegram bot that guides users through structured surveys and generates deep strategic insights using GPT-4 — a smart mix of prompt design, automation, and UX logic.
 
 🌱 I specialize in NLP, process automation, and embedding AI into real business flows.
 
@@ -24,7 +25,8 @@ I'm a fullstack analyst who builds end-to-end solutions — from requirement gat
 
 ## 🧠 What I Do
 
-- 🧪 Prompt engineering & LLM automation (offline / no API)
+- 🧪 Prompt engineering & LLM automation (OpenAI API & offline)
+- 📩 Telegram GPT bots with dialogue logic and custom GPT-4 prompts
 - 📊 Data analysis, forecasting & BI (Python, R, SQL)
 - 🤖 Bot development & system integration (Telegram, Discord)
 - ⚙️ End-to-end pipelines: raw data → smart reports
@@ -58,9 +60,15 @@ I'm a fullstack analyst who builds end-to-end solutions — from requirement gat
 
 ### Automation & APIs:
 ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
-![OpenAI (No API)](https://img.shields.io/badge/-OpenAI%20(No%20API)-764ABC?style=flat&logo=openai&logoColor=white)
+![GPT-4](https://img.shields.io/badge/-GPT--4-8A2BE2?style=flat&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-F69A1D?style=flat&logo=n8n&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3B3B3B?style=flat)
+![Regex](https://img.shields.io/badge/-Regex-005F6B?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat)
+![asyncio](https://img.shields.io/badge/-asyncio-3776AB?style=flat&logo=python&logoColor=white)
 ![Scheduling](https://img.shields.io/badge/-schedule.py-4B8BBE?style=flat)
+
 
 
 ---
