@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Nika Kalinnikova</h1>
-<h3 align="center">Fullstack Analyst · AI · NLP · Automation</h3>
+<h3 align="center">Fullstack Analyst & AI Automator | Python · NLP · LLM · Prompt Engineering · n8n · Real-World AI Integrations </h3>
 
 <p align="center">
   <a href="https://t.me/HayleyRizhik">
