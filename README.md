@@ -99,6 +99,12 @@ Automated AI-based pipeline for analyzing customer feedback:
 - Tone, summary, and CX recommendations via OpenAI GPT
 - Results automatically saved to Google Sheets
 
+### 🧪 [Telegram GPT Bot: Persona, Audience & Competitor Analysis](https://github.com/KalinNika/Telegram-GPT-Bot-Persona-Audience-Competitor-Analysis)
+AI-powered Telegram assistant for strategic analysis and self-discovery:
+- Dialog-based surveys for persona, audience, and competitor analysis
+- GPT-4 text generation in the style of a strategic coach
+- Link parsing (Instagram, YouTube) with metadata extraction
+- Access control via Telegram user ID
 
 ---
 
