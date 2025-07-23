@@ -16,10 +16,9 @@
 
 ## 🚀 About Me
 
-I'm a fullstack analyst who builds end-to-end solutions — from requirement gathering and business process mapping to predictive modeling, dashboards, prompt-based AI prototypes, and automated report delivery. 
-I recently built an AI-powered Telegram bot that guides users through structured surveys and generates deep strategic insights using GPT-4 — a smart mix of prompt design, automation, and UX logic.
-
-🌱 I specialize in NLP, process automation, and embedding AI into real business flows.
+I'm a fullstack AI developer & analyst who builds end-to-end AI solutions — from requirement gathering and business process mapping to data modeling, custom GPT workflows, semantic search, and automated delivery.
+- 🔍 I combine prompt engineering, vector search (RAG), and LLM pipelines to solve real business problems — not just generate text.
+- 🌱 I specialize in NLP, process automation, and building AI tools that actually ship — fast, functional, and user-ready.
 
 ---
 
@@ -82,6 +81,7 @@ I recently built an AI-powered Telegram bot that guides users through structured
 ### Containerization:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-384d54?style=flat&logo=docker)
+
 
 
 ---
