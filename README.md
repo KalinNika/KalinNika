@@ -50,10 +50,20 @@ I recently built an AI-powered Telegram bot that guides users through structured
 ![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-4285F4?style=flat&logo=googledrive&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### ML/NLP:
+### ML / NLP / Evaluation:
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Prophet](https://img.shields.io/badge/-Prophet-FF6F00?style=flat)
 ![TF-IDF](https://img.shields.io/badge/-TF--IDF-7B7B7B?style=flat)
+![torch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![BERTScore](https://img.shields.io/badge/-BERTScore-cc0066?style=flat)
+
+### RAG & Local Models:
+![FAISS](https://img.shields.io/badge/-FAISS-009688?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-4B8BBE?style=flat&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-6A1B9A?style=flat)
+![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-525252?style=flat)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
+![Mistral](https://img.shields.io/badge/-Mistral-A445ED?style=flat)
 
 ### Web & Interface:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -67,8 +77,11 @@ I recently built an AI-powered Telegram bot that guides users through structured
 ![Regex](https://img.shields.io/badge/-Regex-005F6B?style=flat)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat)
 ![asyncio](https://img.shields.io/badge/-asyncio-3776AB?style=flat&logo=python&logoColor=white)
-![Scheduling](https://img.shields.io/badge/-schedule.py-4B8BBE?style=flat)
+![schedule.py](https://img.shields.io/badge/-schedule.py-4B8BBE?style=flat)
 
+### Containerization:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-384d54?style=flat&logo=docker)
 
 
 ---
@@ -76,7 +89,6 @@ I recently built an AI-powered Telegram bot that guides users through structured
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinNika&layout=compact&langs_count=8&hide=html,css)
-
 
 
 ## 📌 Featured Projects
@@ -115,5 +127,11 @@ AI-powered Telegram assistant for strategic analysis and self-discovery:
 - Access control via Telegram user ID
 
 ---
+
+### 📊 [Local AI assistant for semantic question-answering on PDF documents](https://github.com/KalinNika/DocuChat)
+- PDF chunking, embedding, and indexing with LangChain + FAISS
+- Answer generation via Ollama (Mistral) — 100% offline
+- Auto-tests with BERTScore to validate semantic accuracy
+- Fully containerized with docker-compose for local deployment
 
 📬 Feel free to connect via [Telegram](https://t.me/HayleyRizhik) or explore more on [GitHub](https://github.com/KalinNika).
