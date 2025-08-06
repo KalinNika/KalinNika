@@ -64,8 +64,16 @@ I'm a fullstack AI developer & analyst who builds end-to-end AI solutions — fr
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
 ![Mistral](https://img.shields.io/badge/-Mistral-A445ED?style=flat)
 
+### File Parsing & Environment:
+![PyPDF2](https://img.shields.io/badge/-PyPDF2-003366?style=flat)
+![docx2txt](https://img.shields.io/badge/-docx2txt-2088FF?style=flat)
+![dotenv](https://img.shields.io/badge/-python--dotenv-224C98?style=flat)
+
 ### Web & Interface:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 ### Automation & APIs:
 ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
