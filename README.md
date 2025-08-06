@@ -24,12 +24,14 @@ I'm a fullstack AI developer & analyst who builds end-to-end AI solutions — fr
 
 ## 🧠 What I Do
 
-- 🧪 Prompt engineering & LLM automation (OpenAI API & offline)
-- 📩 Telegram GPT bots with dialogue logic and custom GPT-4 prompts
-- 📊 Data analysis, forecasting & BI (Python, R, SQL)
-- 🤖 Bot development & system integration (Telegram, Discord)
-- ⚙️ End-to-end pipelines: raw data → smart reports
-- 🔧 No-code + scripting workflows (n8n, Python)
+- 🧪 Prompt engineering & LLM automation (OpenAI API & local models)  
+- 📩 Telegram GPT bots with dialogue logic and custom GPT-4 prompts  
+- 📊 Data analysis, forecasting & BI (Python, R, SQL, Prophet)  
+- 🧠 RAG pipelines & document-based QA (LangChain, FAISS, Ollama)  
+- 🎨 Streamlit dashboards & smart UIs with GPT-powered logic  
+- 🤖 Bot development & system integration (Telegram, Discord, APIs)  
+- ⚙️ End-to-end pipelines: raw data → smart PDF reports, Google Sheets  
+- 🧰 AI prototyping with no-code tools + Python scripting (n8n, schedule, Webhooks)  
 
 ---
 
