@@ -92,8 +92,6 @@ I'm a fullstack AI developer & analyst who builds end-to-end AI solutions — fr
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-384d54?style=flat&logo=docker)
 
-
-
 ---
 
 ## 📊 GitHub Stats
