@@ -98,40 +98,43 @@ End-to-end pipeline for analyzing customer feedback:
 - Text preprocessing, classification (TF-IDF + Naive Bayes)
 - Forecasting with Prophet
 - PDF report generation + Telegram Bot delivery
-
+---
 ### 🧪 [Prompt NoAPI Trainer](https://github.com/KalinNika/prompt-noapi-trainer)
 Prompt-engineering simulator without GPT API:
 - CLI + Web (Streamlit) versions
 - Real-world tasks: analytics, HR, business summaries
 - Ideal for training, interviews and AI experiments
-
-
+---
 ### 📊 [Finance Forecast Dispatcher](https://github.com/KalinNika/Finance-Forecast-Dispatcher)  
 Automated pipeline for delivering financial forecasts:
-
 - Forecast generation based on expenses data
 - PDF report creation and delivery
 - Automatic dispatch via **Telegram** and **Discord** bots
-
+---
 ### 🧠 [AI Feedback Reporter](https://github.com/KalinNika/ai-feedback-reporter) 
 Automated AI-based pipeline for analyzing customer feedback:
 - Text input via HTML form and Webhook
 - Tone, summary, and CX recommendations via OpenAI GPT
 - Results automatically saved to Google Sheets
-
+---
 ### 🧪 [Telegram GPT Bot: Persona, Audience & Competitor Analysis](https://github.com/KalinNika/Telegram-GPT-Bot-Persona-Audience-Competitor-Analysis)
 AI-powered Telegram assistant for strategic analysis and self-discovery:
 - Dialog-based surveys for persona, audience, and competitor analysis
 - GPT-4 text generation in the style of a strategic coach
 - Link parsing (Instagram, YouTube) with metadata extraction
 - Access control via Telegram user ID
-
 ---
-
 ### 📊 [Local AI assistant for semantic question-answering on PDF documents](https://github.com/KalinNika/DocuChat)
 - PDF chunking, embedding, and indexing with LangChain + FAISS
 - Answer generation via Ollama (Mistral) — 100% offline
 - Auto-tests with BERTScore to validate semantic accuracy
 - Fully containerized with docker-compose for local deployment
+---
+### 🤖 [HR Assistant powered by GPT](https://github.com/KalinNika/HR-Assistant-GPT)
+- Streamlit-based LLM agent for automating key HR processes:
+- Resume-to-vacancy matching with GPT-4 scoring and reasoning
+- Smart job description generator (from scratch or enhancement mode)
+- Interview question generation by skill category (hard/soft/motivation)
+- UI with light/dark themes and clean modular prompt design
 
 📬 Feel free to connect via [Telegram](https://t.me/HayleyRizhik) or explore more on [GitHub](https://github.com/KalinNika).
