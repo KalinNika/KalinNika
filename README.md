@@ -139,7 +139,7 @@ AI-powered Telegram assistant for strategic analysis and self-discovery:
 - Fully containerized with docker-compose for local deployment
 ---
 ### 🤖 [HR Assistant powered by GPT](https://github.com/KalinNika/HR-Assistant-GPT)
-- Streamlit-based LLM agent for automating key HR processes:
+Streamlit-based LLM agent for automating key HR processes:
 - Resume-to-vacancy matching with GPT-4 scoring and reasoning
 - Smart job description generator (from scratch or enhancement mode)
 - Interview question generation by skill category (hard/soft/motivation)
